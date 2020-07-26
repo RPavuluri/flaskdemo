@@ -1,4 +1,4 @@
-#!/Users/rohanpavuluri/Desktop/flask-aws-tutorial-master/flask-aws/bin/python
+#!/Users/rohanpavuluri/Desktop/flask-aws-tutorial-main/flask-aws/bin/python
 
 # $Id: rst2latex.py 5905 2009-04-16 12:04:49Z milde $
 # Author: David Goodger <goodger@python.org>
